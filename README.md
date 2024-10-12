@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://github.com/Mehrnzv/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Mehrnzv&show_icons=true&theme=tokyonight" />
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/Mehrnzv/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mehrnzv&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
+-->
